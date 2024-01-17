@@ -1,0 +1,296 @@
+{
+    "251b75b8-e8d5-4b5d-8579-987ffa7cc5cc": [
+        {
+            "text": "developed to help source talent, build diversity, and find the right candidates for open positions and to reward our employees for the right referrals.",
+            "probability": 0.5002373208728873,
+            "start_log_prob": 5.279393391097002e-14,
+            "end_log_prob": 0.0009501725435256958
+        },
+        {
+            "text": "This programme will encourage all at Techversant to act as talent ambassadors for the Organization",
+            "probability": 0.4997626791271127,
+            "start_log_prob": 3.530181247150821e-14,
+            "end_log_prob": 8.889807077139267e-07
+        }
+    ],
+    "32b45e2e-4323-4b36-b8d0-0bfa4c508f10": [
+        {
+            "text": "Organization.Techversant is an equal opportunity employer with a diverse workforce.All",
+            "probability": 0.880797077794472,
+            "start_log_prob": 1.0,
+            "end_log_prob": 1.0
+        },
+        {
+            "text": "the Organization",
+            "probability": 0.11920292220552786,
+            "start_log_prob": 1.1390892298412253e-13,
+            "end_log_prob": 1.746757849474534e-09
+        }
+    ],
+    "53c5658c-96d7-499c-a47f-14c40c9820d1": [
+        {
+            "text": "Organization.Please note that it is not the intent for these guidelines to describe every situation.",
+            "probability": 0.5000031937066224,
+            "start_log_prob": 3.541648311428114e-13,
+            "end_log_prob": 2.6154481020057574e-05
+        },
+        {
+            "text": "the Organization",
+            "probability": 0.4999968062933776,
+            "start_log_prob": 1.1015716333898085e-13,
+            "end_log_prob": 1.33796547743259e-05
+        }
+    ],
+    "4abe0e5c-b5ff-4fc4-a95a-2b3adc273245": [
+        {
+            "text": "situation. Management judgment will / may be necessary in certain situations which are not addressed here,or where special considerations may be required.",
+            "probability": 0.33333721060991556,
+            "start_log_prob": 2.1858560794729698e-10,
+            "end_log_prob": 1.949105535459239e-05
+        },
+        {
+            "text": "note that it is not the intent for these guidelines to describe every situation.",
+            "probability": 0.33333141726657106,
+            "start_log_prob": 3.1096195063362586e-11,
+            "end_log_prob": 2.1112639387865784e-06
+        },
+        {
+            "text": "Organization.Please note that it is not the intent for these guidelines to describe every situation.",
+            "probability": 0.33333137212351344,
+            "start_log_prob": 1.3073166681143444e-11,
+            "end_log_prob": 1.9758520011237124e-06
+        }
+    ],
+    "45b226f3-1797-4d93-bc77-37438b796c34": [
+        {
+            "text": "Techversant and not serving the notice period.All",
+            "probability": 1.0,
+            "start_log_prob": 1.5133443109771605e-11,
+            "end_log_prob": 4.70148279418936e-06
+        }
+    ],
+    "498f4f56-ff62-4dc4-bad5-b0ff81f22813": [
+        {
+            "text": "period.All who are directly involved in external recruitment are not eligible",
+            "probability": 0.6463212846632466,
+            "start_log_prob": 1.0,
+            "end_log_prob": 0.9892151951789856
+        },
+        {
+            "text": "notice period.All who are directly involved in external recruitment are not eligible The",
+            "probability": 0.08841995358378191,
+            "start_log_prob": 1.518944339881298e-13,
+            "end_log_prob": 1.6133797544171102e-05
+        },
+        {
+            "text": "notice period",
+            "probability": 0.0884198009960087,
+            "start_log_prob": 1.518944339881298e-13,
+            "end_log_prob": 1.4408079550776165e-05
+        },
+        {
+            "text": "who are directly involved in external recruitment are not eligible The referral bonus programme is applicable only for permanent employee hires and fixed term consultants.",
+            "probability": 0.08841956416709561,
+            "start_log_prob": 1.346413621870421e-13,
+            "end_log_prob": 1.1729615835065488e-05
+        },
+        {
+            "text": "who are directly involved in external recruitment are not eligible The",
+            "probability": 0.08841939658986735,
+            "start_log_prob": 1.346413621870421e-13,
+            "end_log_prob": 9.834363481786568e-06
+        }
+    ],
+    "32578045-420e-4fd7-9955-8311cf4a31f1": [
+        {
+            "text": "The referral bonus programme is applicable only for permanent employee hires and fixed term consultants",
+            "probability": 0.8806002335411255,
+            "start_log_prob": 1.0,
+            "end_log_prob": 0.9994949102401733
+        },
+        {
+            "text": "period.All who are directly involved in external recruitment are not eligible The referral bonus programme is applicable only for permanent employee hires and fixed term consultants.",
+            "probability": 0.1193997664588745,
+            "start_log_prob": 1.4624963740050845e-10,
+            "end_log_prob": 0.0013683965662494302
+        }
+    ],
+    "96c8cdf6-7f31-45d5-b5ae-a45199bbc9ef": [
+        {
+            "text": "If the referral candidate joins as contractors, the referrer will be eligible for referral bonus only upon their successful conversion to regular rolls of the company.To",
+            "probability": 0.88079707793317,
+            "start_log_prob": 1.0,
+            "end_log_prob": 1.0
+        },
+        {
+            "text": ". If",
+            "probability": 0.11920292206683013,
+            "start_log_prob": 1.5180934851213856e-12,
+            "end_log_prob": 4.2434197822238673e-10
+        }
+    ],
+    "7a24c7aa-f225-4f29-bc14-c03818d86b5e": [
+        {
+            "text": "",
+            "probability": 1.0,
+            "start_log_prob": -1000000.0,
+            "end_log_prob": -1000000.0
+        }
+    ],
+    "cc7ca287-fac9-4f6e-89b4-1235b3bb10cf": [
+        {
+            "text": "Any application processed without the involvement of the Talent Acquisition team will not be eligible for a referral bonus.In",
+            "probability": 0.7869855997168735,
+            "start_log_prob": 1.0,
+            "end_log_prob": 0.9999979734420776
+        },
+        {
+            "text": ". Any",
+            "probability": 0.10650723839288259,
+            "start_log_prob": 1.8854416725805345e-13,
+            "end_log_prob": 9.718535238789627e-07
+        },
+        {
+            "text": "portal as applicable. Any application processed without the involvement of the Talent Acquisition team will not be eligible for a referral bonus.In the event",
+            "probability": 0.10650716189024378,
+            "start_log_prob": 2.4781223656510174e-15,
+            "end_log_prob": 2.5356763444506214e-07
+        }
+    ],
+    "9994401d-b0eb-4e42-a783-f45df93c1e2a": [
+        {
+            "text": "event a referral is received through multiple referrers, the first referrer becomes eligible for thereferral bonus.",
+            "probability": 0.5064841610955113,
+            "start_log_prob": 3.374552761670202e-05,
+            "end_log_prob": 0.03082577884197235
+        },
+        {
+            "text": "Talent Acquisition Team shall intimate the other referrers before initiating the recruitment process.Referral",
+            "probability": 0.49351583890448864,
+            "start_log_prob": 1.0652257515175734e-05,
+            "end_log_prob": 0.0049107735976576805
+        }
+    ],
+    "11c09650-ae29-4720-a464-18b652c2c9be": [
+        {
+            "text": "",
+            "probability": 1.0,
+            "start_log_prob": -1000000.0,
+            "end_log_prob": -1000000.0
+        }
+    ],
+    "b468e887-f4b3-4350-9b69-783cdb1d895d": [
+        {
+            "text": "",
+            "probability": 1.0,
+            "start_log_prob": -1000000.0,
+            "end_log_prob": -1000000.0
+        }
+    ],
+    "3f417801-8486-4600-8785-1e90b44d7e15": [
+        {
+            "text": "",
+            "probability": 1.0,
+            "start_log_prob": -1000000.0,
+            "end_log_prob": -1000000.0
+        }
+    ],
+    "8131d4bc-af8e-45bf-a3a2-3f32a6b9d3c7": [
+        {
+            "text": "period.Bonus payment for the employees on long leave would be credited when the employee returns to active duty.The",
+            "probability": 0.8807970779442733,
+            "start_log_prob": 1.0,
+            "end_log_prob": 1.0
+        },
+        {
+            "text": "notice period",
+            "probability": 0.11920292205572668,
+            "start_log_prob": 3.092178053730075e-15,
+            "end_log_prob": 3.201033604849357e-10
+        }
+    ],
+    "26bedc15-84d5-4832-98db-6ac2389b3828": [
+        {
+            "text": "referral bonus will be paid along with salary and is a taxable income.",
+            "probability": 0.3333333410295445,
+            "start_log_prob": 1.2020477058172219e-08,
+            "end_log_prob": 2.6988814738615474e-08
+        },
+        {
+            "text": "active duty",
+            "probability": 0.3333333302092957,
+            "start_log_prob": 2.1548853812447533e-09,
+            "end_log_prob": 4.393660102408603e-09
+        },
+        {
+            "text": "active duty.The referral bonus will be paid along with salary and is a taxable income. Any",
+            "probability": 0.33333332876115984,
+            "start_log_prob": 2.1548853812447533e-09,
+            "end_log_prob": 4.925271995803726e-11
+        }
+    ],
+    "16dcd8c3-5794-4857-8122-139b389e0ffb": [
+        {
+            "text": "Authority of the Management and Human Resources Group reserves the right to revise or eliminate this policy. Any such changes will be communicated.All",
+            "probability": 0.7112345904525681,
+            "start_log_prob": 1.0,
+            "end_log_prob": 1.0
+        },
+        {
+            "text": "Human Resources Group reserves the right to revise or eliminate this policy.",
+            "probability": 0.09625513889593518,
+            "start_log_prob": 1.4400824299996883e-15,
+            "end_log_prob": 4.310793855211159e-08
+        },
+        {
+            "text": "revise or eliminate this policy",
+            "probability": 0.09625513536633368,
+            "start_log_prob": 4.897896019697475e-16,
+            "end_log_prob": 6.438712230050214e-09
+        },
+        {
+            "text": "Management and Human Resources Group reserves the right to revise or eliminate this policy",
+            "probability": 0.09625513528516312,
+            "start_log_prob": 6.665655898199568e-16,
+            "end_log_prob": 5.595426344484622e-09
+        }
+    ],
+    "d48898b1-4c4d-4550-98b7-e2a9cd81666d": [
+        {
+            "text": ". Any such changes will be communicated",
+            "probability": 0.1666666682858001,
+            "start_log_prob": 1.0290849422611714e-10,
+            "end_log_prob": 1.4799571346202356e-08
+        },
+        {
+            "text": "Authority of the Management and Human Resources Group reserves the right to revise or eliminate this policy.",
+            "probability": 0.16666666739008795,
+            "start_log_prob": 5.28496309215587e-11,
+            "end_log_prob": 9.475357387600525e-09
+        },
+        {
+            "text": "policy",
+            "probability": 0.1666666662877407,
+            "start_log_prob": 8.961276165564414e-12,
+            "end_log_prob": 2.905162332922373e-09
+        },
+        {
+            "text": ".",
+            "probability": 0.16666666611855674,
+            "start_log_prob": 1.0290849422611714e-10,
+            "end_log_prob": 1.7961112597220108e-09
+        },
+        {
+            "text": "Authority of the Management and Human Resources Group reserves the right to revise or eliminate this policy. Any such changes will be communicated.All",
+            "probability": 0.166666666104688,
+            "start_log_prob": 5.28496309215587e-11,
+            "end_log_prob": 1.762957668738352e-09
+        },
+        {
+            "text": "changes will be",
+            "probability": 0.16666666581312645,
+            "start_log_prob": 1.909964807839115e-12,
+            "end_log_prob": 6.452808426482548e-11
+        }
+    ]
+}
