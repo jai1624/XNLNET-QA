@@ -1,0 +1,60 @@
+Title,"paragraph: This employee referral program  is  developed to  help  source  talent, build  diversity,  and  find  the  right  candidates  for  open positions  and  to  reward  our  employees  for  the  right  referrals. This  programme  will  encourage  all  at Techversant to act as talent ambassadors for the Organization.Techversant is an equal opportunity employer with a diverse workforce.All referred candidates  will be given  the  same  consideration  and  will  pass  through  the  established  process  and  procedures  of  the Organization.Please note that it is not the intent for these  guidelines to  describe every situation. Management judgment will / may be necessary in certain situations which are not addressed here,or where special considerations may be required.",query: Is techversant equal opportunity employer ?,Test_Case_Result
+,title: Employee Referral Programme,answer: Techversant is an equal opportunity employer with a diverse workforce,Correct
+2,,query: Does this employee referral program helps to source talent ?,
+,,answer: This,Wrong
+3,,query: Will there be any change in described guidelines ?,
+,,answer: Please note that it is not the intent for these guidelines to describe every situation,Correct
+4,,query: Does the decision change based on Management judgment?,
+,,"answer: Management judgment will / may be necessary in certain situations which are not addressed here,or where special considerations may be required.",correct
+5,title: Employee Referral Programme,query: Will the employee serving the notice period gets the referral bonus ?,
+,"paragraph: All employees who are active at the time of the employee referral bonus payment date - both referrer and the referee will need to on rolls with Techversant and not serving the notice period.All who are directly involved in external recruitment are not eligible The  referral  bonus  programme  is applicable  only  for  permanent  employee  hires  and  fixed  term consultants. If the referral candidate joins as contractors, the referrer will be eligible for referral bonus only upon their successful conversion to regular rolls of the company.To  be  eligible  for  referral  bonus,  the  profile  has  to  be  sent  to  the  Talent  Acquisition  team  by  the employee at the mentioned email id or portal as applicable.  Any application processed without the involvement of the Talent Acquisition team will not be eligible for a referral bonus.In the event a referral is received through multiple referrers, the first referrer becomes eligible for thereferral  bonus.  The  Talent  Acquisition  Team  shall  intimate  the  other  referrers  before  initiating  the recruitment process.Referral bonus will not be applicable for fresher recruitment.Referral  bonus  will  not be  applicable  for  positions  under  the  Enabling  /  Support  Functions,unless there is an exception as approved by the Management.",answer: All,Wrong
+6,,query: Are the external recruitment eligible for referral bonus ?,
+,,answer: All who are directly involved in external recruitment are not eligible,correct
+7,,query: Are the referral bonus programme is applicable only for permanent employee ?,
+,,answer: The referral bonus programme is applicable only for permanent employee hires and fixed term consultants,correct
+8,,"query: What if the candidate joins as contractors, will the referrer be eligible for referral bonus ?",
+,,answer: If the referral candidate joins as contractors,partial output
+9,,query: To which team profile  has  to  be  sent ?,
+,,answer: the profile has to be sent to the Talent Acquisition team by the employee at the mentioned email id or portal as applicable,correct(partial output)
+10,,What if the application processed without the involvement Talent  Acquisition  team?,
+,,answer: The Talent Acquisition Team shall intimate the other referrers before initiating the recruitment process.,wrong
+11,,"query: If there are multiple referrers, who will be eligible for referral bonus ?",
+,,answer: The Talent Acquisition Team shall intimate the other referrers before initiating the recruitment process.,correct
+12,,"query: Will the referral bonus be paid for Enabling ,Support position ?",
+,,answer: Referral bonus will not be applicable for positions under the Enabling / Support Functions,correct
+13,title: Employee Referral Programme,query: Explain about the referral bonus Payout Details ?,
+,"paragraph: Regarding Referral Bonus Payout Details,the Referral bonus would be paid in the subsequent month payroll once the selected referral completes  minimum  6  months  or  the  probation  period,  whichever  is  more,  at  Techversant and upon successful completion of background verification of the  referral, as the case may be.Both Referrer and Referral should be on Techversant?s payroll at the time of bonus payout and not serving the notice period.Bonus payment for the employees on long leave would be credited when the employee returns to active duty.The referral bonus will be paid along with salary and is a taxable income. Any tax applicable will be deducted at source.",answer: Regarding,wrong
+14,,query: Should the Referrer and Referral should be on Techversant's payroll ?,
+,,answer: Both Referrer and Referral should be on Techversant?s payroll at the time of bonus payout and not serving the notice period.,correct
+15,,query: Will the employees on long leave get Bonus payment ?,
+,,answer: Bonus payment for the employees on long leave would be credited when the employee returns to active duty.,correct
+16,,query: Are the tax applicable for referral bonus ?,
+,,answer: The referral bonus will be paid along with salary and is a taxable income. Any tax applicable will be deducted at source.,correct
+17,"title: Employee Referral Programme
+paragraph: All ?exceptions? to the statements of this policy document must be appealed the HR Function Head and will be considered on an individual case basis, subject to review and approval from the Management.",query: Who holds the authority to revise or eliminate the Policy ?,
+,,answer: Authority of the Management and Human Resources Group reserves the right to revise or eliminate this policy. Any such changes will be communicated.,correct
+,,query: What are exceptions in this policy document ?,
+,title:Employee Handbook,answer: All ?exceptions? to the statements,correct(partial output)
+1,"paragraph:Employee development in general is the policy of TECHVERSANT to evaluate periodically the work of each employee by the manager/head of the department to monitor job performance, skill development, future exploration, need for further training. Each employee is expected to cooperate with such performance analysis and evaluation. Such process shall be covered by the following.",query:What are the Employee development policy of TECHVERSANT ?,
+,,query:How should every employee cooperate with performance analysis ?,
+,,query: Explain performance analysis and evaluation ?,
+2,paragraph:'Annual Performance Evaluation TECHVERSANT shall make an annual performance evaluation every year for those employees who have been in service for more than 12 months. The process of evaluation is inclusive of 5 stages and in each stage the overall performance of the Employee will be evaluated by the Appraisal Committee or the HR Department in consultation with the concerned Department Head.,query:What does the  annual performance evaluation mean ?,
+,,query: Who are eligible employees for annual performance evaluation ?,
+,,query:Should the employee be in service for annual performance evaluation,
+,,query:What is the itineary for employee to involve in annual performance evaluation ?,
+,,query:List the stages of evaluation in appraisal ?,
+,,query: Who are the Appraisal Committee comprised off?,
+,,query: How will the Employee  be evaluated in Annual Performance Evaluation ?,
+3,"Subsequent to the evaluation, the Employee will be placed in 5 stages of band or levels, solely on the basis of performance, as follows: Level 1 - Far Exceed Expectations,Level 2 -Exceeds expectations,Level 3 - Meets expectations,Level 4 - Partially Met Expectations,Level 5-Require Significant Improvement.",List the stages of band on the basis of performance ?,
+,,what stages/levels are there on the basis of performance ?,
+,,Explain Level 1 ?,
+,,Explain Level 2 ?,
+,,Explain Level 3 ?,
+,,Explain Level 4 ?,
+,,Explain Level 5 ?,
+,,"What are the 5 stages of band or levels, means on the basis of performance ?",
+4,"For each level, the Employee will be awarded different scores which shall be the guiding factor for determining and finalizing the appraisal. Details with respect to the score level and appraisal tenure are detailed in Annexure B of this Handbook. Company has its own leave encashment policy and the terms and conditions of encashment which is solely depending on the above mentioned levels are detailed out in Annexure B.",How the score factor helps in determining the level of the employee ?,
+,,Explain the details in Annexure B of this Handbook ?,
+,,Do the Company have leave encashment policy ?,
+,,Where can the details related to score in appraisal and leave encashment policy in Annexure B ?,
+5,"This process is to ensure that the level of performance of each employee is up to the standards required for the job/position in the employment. Annual Salary increment will be provided by the Company to the Employees for those employees coming under Level 1, 2, 3 and 4 based on the result of the annual performance evaluation, at the sole discretion of the Company.",,
